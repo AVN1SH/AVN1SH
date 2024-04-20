@@ -24,7 +24,7 @@
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-212121.svg?style=for-the-badge&logo=JavaScript&logoColor=#ffea00&textColor=white)
 ![React](https://img.shields.io/badge/React-212121.svg?style=for-the-badge&logo=React&logoColor=006eff&textColor=white)
-![jwt](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![jwt](https://img.shields.io/badge/JSON%20Web%20Tokens-000000.svg?style=for-the-badge&logo=JSON-Web-Tokens&logoColor=white)
 ![redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
 ![tailwindCss](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
