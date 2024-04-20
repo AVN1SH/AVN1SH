@@ -8,13 +8,13 @@
 
 - 📫 How to reach me avnish84344@gmail.com
 
-- ⚡ Fun fact: love content creation
+- ⚡ Fun fact: Love Content Creation and Gaming
 
 <h2>🌐 Social Accounts : </h2>
 
 [![Ttwitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AvnishKrSharma)
 ![Instagram](https://img.shields.io/badge/Instagram-orangered.svg?logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/avnish-kumar-sharma/)
 
 <h2>💻 Tech Stack : </h2>
 
