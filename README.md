@@ -8,7 +8,7 @@
 
 - 💞️ I’m looking to collaborate on any web applications for both backend and frontend
 
-- 📫 How to reach me avnish84344@gmail.com
+- 📫 How to reach me avnish73220@gmail.com
 
 - ⚡ Fun fact: Love Content Creation and Gaming
 
